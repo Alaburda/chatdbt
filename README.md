@@ -28,7 +28,7 @@ Kaip prieiti prie problemos?
 
 ## Mažiau naivus būdas
 
-Pirma paprašome, jog modelis susirastų aktualias lenteles?
+Pirma paprašome, jog modelis susirastų aktualias lenteles? Gal reikėtų daryti fuzzy paiešką pagal raktinius žodžius modelių pavadinimuose, column pavadinimuose, descriptione, kode ir dokumentacijoje? Pagal tai tada LLM turi kontekstinius modelius, pagal kuriuos galėtų formuoti užklausą.
 
 
 
